@@ -23,5 +23,7 @@ Imagenes de analoga a digital
 Clase 3
 
 Umbralizacion de imagenes
+https://www.geeksforgeeks.org/python-thresholding-techniques-using-opencv-set-1-simple-thresholding/
+https://noemioocc.github.io/posts/Umbralizaci%C3%B3n-openCV-python/
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
